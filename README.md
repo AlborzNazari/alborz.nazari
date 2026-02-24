@@ -97,16 +97,6 @@ open_to: Cybersecurity engineering roles & collaborations
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlborzNazari&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/AlborzNazari)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlborzNazari&bg_color=0D1117&color=00ff41&line=00ff41&point=FF6B35&area=true&area_color=00ff41&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
