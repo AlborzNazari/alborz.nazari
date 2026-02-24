@@ -61,7 +61,12 @@ open_to: Cybersecurity engineering roles & collaborations
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 💻 Languages
-[![Skills](https://skillicons.dev/icons?i=python,bash,c,cpp,js&theme=dark&perline=10)](https://skillicons.dev)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🎬 3D / VFX Stack
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
@@ -99,11 +104,8 @@ open_to: Cybersecurity engineering roles & collaborations
 
 ## 🏆 Trophies
 
-<div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlborzNazari&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/AlborzNazari)
-
-</div>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlborzNazari&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10)](https://github.com/AlborzNazari)
 
 ---
 
