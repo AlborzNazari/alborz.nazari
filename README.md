@@ -101,7 +101,14 @@ open_to     : Cybersecurity engineering roles & collaborations
 
 ---
 
-## 🚀 Projects
+
+## 🚀 Projects I'm Working On
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Secure Apportionment System** | A secure apportionment system demonstrating the Huntington-Hill method with AES-256 encryption. | https://github.com/AlborzNazari/Secure-Apportionment-System |
+| **Open Intelligence Lab** | Ethical OSINT research platform focused on public security intelligence, graph-based threat modeling, and explainable analytics. | https://github.com/AlborzNazari/open-intelligence-lab |
+| **ThreatBoard OSINT (MITRE)** | Interactive OSINT tool that maps basic reconnaissance findings to MITRE ATT&CK techniques on a visual threat board. | https://github.com/AlborzNazari/ThreatBoard_OSINT_MITRE |
 
 > Actively building. Each repo below is a hands-on step toward cybersecurity engineering mastery.
 
