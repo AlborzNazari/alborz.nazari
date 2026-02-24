@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AlborzNazari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Cybersecurity%20%7C%203D%2FVFX%20%7C%20Technical%20Writer&descAlignY=52&descSize=18)](https://github.com/AlborzNazari)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AlborzNazari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Cybersecurity%20%7C%203D%2FVFX%20%7C%20Technical%20Writer&descAlignY=52&descSize=18" width="100%" alt="Header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=🔐+Building+secure+systems+from+the+ground+up...;🎥+Visualizing+complex+security+concepts+in+3D;🛡️+Offensive+%2B+Defensive+%7C+Linux+%7C+Web+App+Security)](https://git.io/typing-svg)
+<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AlborzNazari&label=Profile%20Views&color=00ff41&style=for-the-badge)](https://github.com/AlborzNazari)
+![Profile Views](https://komarev.com/ghpvc/?username=AlborzNazari&label=Profile%20Views&color=00ff41&style=for-the-badge)
 [![GitHub Followers](https://img.shields.io/github/followers/AlborzNazari?label=Followers&style=for-the-badge&color=00ff41&logo=github)](https://github.com/AlborzNazari?tab=followers)
 
 </div>
@@ -12,6 +12,7 @@
 ---
 
 ## 👾 About Me
+
 ```yaml
 name: Alborz Nazari
 role: Software Engineer → Cybersecurity Engineer
@@ -24,13 +25,14 @@ unique_edge:
   - 3D/VFX production (making security visually explainable)
   - Technical writing that bridges complexity and clarity
 passion: "Building secure systems and communicating
-          technical ideas."
+          technical ideas in ways that actually land."
 open_to: Cybersecurity engineering roles & collaborations
 ```
 
 ---
 
 ## 🎯 Current Focus
+
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
@@ -61,7 +63,6 @@ open_to: Cybersecurity engineering roles & collaborations
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 💻 Languages
-### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -77,7 +78,7 @@ open_to: Cybersecurity engineering roles & collaborations
 
 ## 🚀 Featured Projects
 
-> *Projects pinned below — each one a step toward cybersecurity engineering mastery*
+> *Each project is a step toward cybersecurity engineering mastery*
 
 | Project | Description | Stack |
 |---|---|---|
@@ -88,28 +89,15 @@ open_to: Cybersecurity engineering roles & collaborations
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlborzNazari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com?user=AlborzNazari&theme=tokyonight-duo&hide_border=true" width="49%" />
+![AlborzNazari's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlborzNazari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlborzNazari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="49%" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlborzNazari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=c9d1d9)
 
 </div>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AlborzNazari&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlborzNazari&bg_color=0D1117&color=00ff41&line=00ff41&point=FF6B35&area=true&area_color=00ff41&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -141,7 +129,7 @@ open_to: Cybersecurity engineering roles & collaborations
 
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/AlborzNazari)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer"/>
 
 *Thanks for visiting — if you're building in security, let's connect.* 🔐
 
