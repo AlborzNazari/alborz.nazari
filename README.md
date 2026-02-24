@@ -28,7 +28,7 @@
 ```yaml
 name        : Alborz Nazari
 role        : Software Engineer → Cybersecurity Engineer
-location    : [ REDACTED ]
+location    : España 
 status      : Building. Learning. Breaking things (ethically).
 
 foundation  :
