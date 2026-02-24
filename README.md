@@ -1,138 +1,172 @@
+<!-- HEADER -->
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AlborzNazari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Cybersecurity%20%7C%203D%2FVFX%20%7C%20Technical%20Writer&descAlignY=52&descSize=18)](https://github.com/AlborzNazari)
+```
+ ██████╗ ██╗   ██╗██████╗ ███████╗██████╗ ███████╗███████╗ ██████╗
+██╔════╝ ╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝
+██║       ╚████╔╝ ██████╔╝█████╗  ██████╔╝███████╗█████╗  ██║
+██║        ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗╚════██║██╔══╝  ██║
+╚██████╗    ██║   ██████╔╝███████╗██║  ██║███████║███████╗╚██████╗
+ ╚═════╝    ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=🔐+Building+secure+systems+from+the+ground+up...;🎥+Visualizing+complex+security+concepts+in+3D;🛡️+Offensive+%2B+Defensive+%7C+Linux+%7C+Web+App+Security)](https://git.io/typing-svg)
+### `Software Engineer → Cybersecurity Engineer`
+### `Linux · Web App Security · Digital Forensics · 3D/VFX · Technical Writing`
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AlborzNazari&label=Profile%20Views&color=00ff41&style=for-the-badge)](https://github.com/AlborzNazari)
-[![GitHub Followers](https://img.shields.io/github/followers/AlborzNazari?label=Followers&style=for-the-badge&color=00ff41&logo=github)](https://github.com/AlborzNazari?tab=followers)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlborzNazari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlborzNazari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlborzNazari)
+[![Profile Views](https://komarev.com/ghpvc/?username=AlborzNazari&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS)](https://github.com/AlborzNazari)
 
 </div>
 
 ---
 
-## 👾 About Me
+## 👾 `whoami`
+
 ```yaml
-name: Alborz Nazari
-role: Software Engineer → Cybersecurity Engineer
-currently:
-  - Developing hands-on cybersecurity projects on GitHub
-  - Expanding skills in web application security & digital forensics
-  - Building offensive/defensive security tooling
-unique_edge:
+name        : Alborz Nazari
+role        : Software Engineer → Cybersecurity Engineer
+location    : [ REDACTED ]
+status      : Building. Learning. Breaking things (ethically).
+
+foundation  :
   - Linux systems & engineering fundamentals
-  - 3D/VFX production (making security visually explainable)
-  - Technical writing that bridges complexity and clarity
-passion: "Building secure systems and communicating
-          technical ideas in ways that actually land."
-open_to: Cybersecurity engineering roles & collaborations
+  - Cybersecurity concepts (offensive + defensive)
+  - Technical problem-solving & systems thinking
+
+unique_edge :
+  - 3D/VFX production → visual explainers for complex security topics
+  - Technical writing that makes hard things understandable
+  - Engineering mindset applied to security challenges
+
+currently   :
+  - Developing hands-on cybersecurity projects on GitHub
+  - Expanding into web application security & digital forensics
+  - Building offensive/defensive security tooling
+
+open_to     : Cybersecurity engineering roles & collaborations
 ```
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Objectives
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   🕸️  Studying:   Web Application Security (OWASP Top 10)   ║
-║   🔬  Practicing: Digital Forensics & Incident Response      ║
-║   🛠️  Building:   Offensive/Defensive Security Tools         ║
-║   🎥  Creating:   3D/VFX Explainers for Security Concepts    ║
-║   📝  Writing:    Technical Security Documentation           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   🕸️  Mastering  →  Web Application Security (OWASP Top 10)     ║
+║   🔬  Practicing →  Digital Forensics & Incident Response        ║
+║   🛠️  Building   →  Offensive / Defensive Security Tools         ║
+║   🎥  Creating   →  3D/VFX Visual Explainers for Security        ║
+║   📝  Writing    →  Clear Technical Security Documentation       ║
+║   🏁  Targeting  →  CTF Competitions & Real-World Labs           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🛡️ Security Toolkit
+## 🛡️ Tech Stack & Toolkit
 
-### 🔍 Recon & Web App Testing
+**Security & Recon**
+
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00549E?style=for-the-badge&logo=linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00549E?style=for-the-badge&logo=linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
 
-### 🐧 Systems & Infrastructure
+**Systems & Infrastructure**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 💻 Languages
-[![Skills](https://skillicons.dev/icons?i=python,bash,c,cpp,js&theme=dark&perline=10)](https://skillicons.dev)
+**Languages**
 
-### 🎬 3D / VFX Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**3D / VFX**
+
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-> *Projects pinned below — each one a step toward cybersecurity engineering mastery*
+> Actively building. Each repo below is a hands-on step toward cybersecurity engineering mastery.
 
-| Project | Description | Stack |
-|---|---|---|
-| 🔐 **Coming Soon** | Web App Security Scanner | Python, Burp API |
-| 🎥 **Coming Soon** | 3D Security Concept Series | Blender, VFX |
-| 🛡️ **Coming Soon** | Defensive Tooling Collection | Bash, Python |
-| 📝 **Coming Soon** | CTF Writeup Repository | Markdown, Tools |
+| # | Project | What it does | Stack | Status |
+|---|---------|-------------|-------|--------|
+| 01 | 🔐 Web App Scanner | Automated OWASP Top 10 testing tool | Python, Burp API | 🔨 Building |
+| 02 | 🎥 Security VFX Series | 3D visual explainers for security concepts | Blender, After Effects | 🔨 Building |
+| 03 | 🛡️ Defensive Toolkit | Collection of blue team scripts & tools | Bash, Python | 🔨 Building |
+| 04 | 📝 CTF Writeups | Documented solutions with visual breakdowns | Markdown | 🔨 Building |
+
+*→ Check pinned repos below for latest updates*
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Activity
+
+```
+Contributions this year ████████████████████░░░░  in progress
+Web App Security        ████████████░░░░░░░░░░░░  learning
+Digital Forensics       ████████░░░░░░░░░░░░░░░░  learning
+Tool Development        ██████░░░░░░░░░░░░░░░░░░  building
+3D / VFX Work           █████████████████░░░░░░░  experienced
+Technical Writing       ███████████████░░░░░░░░░  experienced
+```
+
+---
+
+## 💡 What Makes Me Different
+
+```
+Most engineers:  write code → ship it
+       Alborz:  write code → secure it → explain it visually
+
+The intersection of:
+  [Engineering] + [Cybersecurity] + [3D/VFX] + [Technical Writing]
+  
+= Someone who can build secure systems AND communicate
+  exactly why they're secure (or why others aren't).
+```
+
+---
+
+## 🧠 Philosophy
+
+> *"Security isn't a feature — it's a foundation.*
+> *Build it in, or rebuild everything later."*
+
+---
+
+## 📫 Reach Out
+
+| Platform | Link |
+|----------|------|
+| 🐙 GitHub | [github.com/AlborzNazari](https://github.com/AlborzNazari) |
+| 💼 LinkedIn | [linkedin.com/in/AlborzNazari](https://linkedin.com/in/AlborzNazari) |
+
+[![Open for Collaborations](https://img.shields.io/badge/Status-Open_for_Collaborations-00ff41?style=for-the-badge)](https://github.com/AlborzNazari)
+[![Seeking Roles](https://img.shields.io/badge/Seeking-Cybersecurity_Engineering_Roles-FF6B35?style=for-the-badge)](https://github.com/AlborzNazari)
+
+---
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlborzNazari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true&include_all_commits=true)](https://github.com/AlborzNazari)
+`[ Alborz Nazari · GitHub Profile · Updated 2026 ]`
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlborzNazari&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlborzNazari&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=c9d1d9&langs_count=8)](https://github.com/AlborzNazari)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlborzNazari&bg_color=0D1117&color=00ff41&line=00ff41&point=FF6B35&area=true&area_color=00ff41&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## ⚡ Quick Facts
-
-| 🎯 Domain | 🔧 Approach | 🌟 Edge |
-|---|---|---|
-| Web App Security | Hands-on CTF & Labs | Engineering + Visual Storytelling |
-| Digital Forensics | Build-to-learn Projects | Linux-native Mindset |
-| Secure Systems | Red + Blue Perspective | Technical Writing Clarity |
-
----
-
-## 💡 Philosophy
-
-> *"Security isn't a feature — it's a foundation. Build it in, or rebuild everything later."*
-
----
-
-## 🌐 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlborzNazari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlborzNazari)
-
-[![Open for Collaborations](https://img.shields.io/badge/Open_for-Collaborations-00ff41?style=for-the-badge)](https://github.com/AlborzNazari)
-[![Open to Work](https://img.shields.io/badge/Open_to-Cybersecurity_Roles-FF6B35?style=for-the-badge)](https://github.com/AlborzNazari)
-
----
-
-<div align="center">
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/AlborzNazari)
-
-*Thanks for visiting — if you're building in security, let's connect.* 🔐
+*If you're building in security or need someone who can explain it visually — let's connect.*
 
 </div>
