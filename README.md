@@ -92,20 +92,18 @@ open_to: Cybersecurity engineering roles & collaborations
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlborzNazari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true&include_all_commits=true)](https://github.com/AlborzNazari)
+<img src="https://github-readme-stats.vercel.app/api?username=AlborzNazari&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=AlborzNazari&theme=tokyonight-duo&hide_border=true" width="49%" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlborzNazari&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlborzNazari&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=c9d1d9&langs_count=8)](https://github.com/AlborzNazari)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlborzNazari&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="49%" />
 
 </div>
 
----
-
 ## 🏆 Trophies
 
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlborzNazari&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10)](https://github.com/AlborzNazari)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AlborzNazari&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" />
+</div>
 
 ---
 
