@@ -24,7 +24,7 @@ unique_edge:
   - 3D/VFX production (making security visually explainable)
   - Technical writing that bridges complexity and clarity
 passion: "Building secure systems and communicating
-          technical ideas in ways that actually land."
+          technical ideas."
 open_to: Cybersecurity engineering roles & collaborations
 ```
 
